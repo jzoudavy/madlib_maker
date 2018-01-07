@@ -44,8 +44,6 @@ def parse_articles(articles):
 
 
 
-
-
 api = articleAPI('542aa092de8e49adb16dffa62932b205')
 
 articles = api.search( q ='Obama', 
